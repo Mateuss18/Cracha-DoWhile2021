@@ -91,7 +91,7 @@ ul {
 
 @media (min-width: 426px) {
   main {
-    background: #121212 url(/images/Desktop.svg) no-repeat center/cover;
+    background: #121212 url(images/Desktop.svg) no-repeat center/cover;
     background-position: center;
   }
 
